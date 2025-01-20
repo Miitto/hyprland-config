@@ -1,0 +1,18 @@
+#!/bin/sh
+cd ~
+# user preferred settings
+
+#cursor size
+export XCURSOR_SIZE=24
+
+# text editor
+export EDITOR=nvim
+
+#browser
+export BROWSER=firefox-developer-edition
+#terminal
+export TERM=wezterm
+#mail
+export MAIL=thunderbird
+
+# check /usr/local/bin/hyprstart
